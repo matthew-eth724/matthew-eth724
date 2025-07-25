@@ -2,7 +2,7 @@
 
 ## Hi, 👋 I'm Matthew Ayakazi 
 
-### A passionate web3 builder and smart contract developer who seeks to build a Decentralized future one smart contract at a time 
+###  
 
 **Facts**
 - I'm 14 years old 👦

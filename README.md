@@ -7,5 +7,5 @@
 **Facts**
 - I'm 14 years old 👦
 - I ♥️ base 🔵
-- Currently building 🏗️https://github.com/Tetrahedron-labs
+- i write backend apis 👨🏻‍💻
 - i write ✍️ EVM contracts 

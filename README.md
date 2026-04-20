@@ -5,7 +5,5 @@
 ###  
 
 **Facts**
-- I'm 14 years old 👦
-- I ♥️ base 🔵
-- i write backend apis 👨🏻‍💻
-- i write ✍️ EVM contracts 
+- I'm 15 years old 👦
+- i build cool stuff 
